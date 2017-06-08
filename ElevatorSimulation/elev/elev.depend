@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1495582898 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1495514776 d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\building.h
+	"Floor.h"
+	"Elevator.h"
+
+1495583262 d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\floor.h
+	<iostream>
+	<string>
+	<queue>
+	"Panel.h"
+	"Rider.h"
+
+1491029320 d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\panel.h
+	<iostream>
+	<string>
+	<vector>
+
+1491860754 d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\rider.h
+
+1495583060 d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\elevator.h
+	<vector>
+	"Rider.h"
+	"Floor.h"
+	"Panel.h"
+
+1495582990 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\elevator.cpp
+	"Elevator.h"
+	"Panel.h"
+	"Building.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1495583240 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	"Panel.h"
+	"Building.h"
+	<iostream>
+	<string>
+	<vector>
+	<climits>
+
+1495515116 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Rider.h"
+	"Building.h"
+	"Floor.h"
+	"Panel.h"
+
+1494913216 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\panel.cpp
+	"Panel.h"
+	"Building.h"
+	<iostream>
+
+1491032464 source:d:\aliba\documents\comsc 200\lab\lab 15\elevatorsimulation\rider.cpp
+	"Rider.h"
+	"Building.h"
+	<iostream>
+
